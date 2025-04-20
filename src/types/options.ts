@@ -168,7 +168,15 @@ export const LEAD_OPTIONS = {
     "Email Campaign",
   ],
 
-  ASSIGNEES: ["Sharvan", "Parmod", "Yogesh", "Mohit", "Telecaller", "Other"],
+  ASSIGNEES: [
+    "Sharvan",
+    "Parmod",
+    "Yogesh",
+    "Mohit",
+    "Telecaller",
+    "Other",
+    "Ygs",
+  ],
 } as const;
 
 // Export individual arrays for backward compatibility
